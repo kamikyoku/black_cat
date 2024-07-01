@@ -1,0 +1,28 @@
+
+body {
+    font-family: monospace;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+
+#header-box {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+#panel-box {
+    display: flex;
+    flex-direction: row;
+}
+
+#credits-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+img {
+    width: 200px;
+}
